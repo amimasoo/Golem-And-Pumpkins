@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PumpkinScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GolemMovment.cs" Line="13" Column="2" />
+      <File FileName="Assets\Scripts\Spawner.cs" Line="18" Column="3" />
+      <File FileName="Assets\Scripts\PumpkinScript.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
